@@ -1,0 +1,1 @@
+docker build -f "C:\Projects\DevTeam\.net-sdk\windowsservercore\Dockerfile" -t dotnetsdk:latest "context"
